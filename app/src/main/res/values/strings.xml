@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">QuickShop</string>
+    <string name="groceryList">Grocery List</string>
+    <string name="calculate">Calculate</string>
 </resources>
