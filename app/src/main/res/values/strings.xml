@@ -1,5 +1,25 @@
 <resources>
     <string name="app_name">QuickShop</string>
+
     <string name="groceryList">Grocery List</string>
     <string name="calculate">Calculate</string>
+
+    <string-array name="items">
+        <item>apple</item>
+        <item>banana</item>
+        <item>orange</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>$0.50</item>
+        <item>$0.75</item>
+        <item>$0.99</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>keeps the doctor away</item>
+        <item>peanut butter jelly</item>
+        <item>I didnt say banana</item>
+    </string-array>
+
 </resources>
